@@ -1,2 +1,0 @@
-# Autowdio
-Hello world!
